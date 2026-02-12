@@ -1,0 +1,12 @@
+../Core/Src/main.c:89:5:main	5
+../Core/Src/main.c:165:6:SystemClock_Config	4
+../Core/Src/main.c:224:13:MX_RTC_Init	6
+../Core/Src/main.c:316:13:MX_GPIO_Init	1
+../Core/Src/main.c:332:10:pack16bit	1
+../Core/Src/main.c:337:10:unpack_c1_u16bit	1
+../Core/Src/main.c:342:10:unpack_c0_u16bit	1
+../Core/Src/main.c:353:10:leap	1
+../Core/Src/main.c:364:10:zeller	1
+../Core/Src/main.c:373:10:dow	1
+../Core/Src/main.c:380:6:RTC_CalendarConfig	3
+../Core/Src/main.c:415:6:Error_Handler	1
